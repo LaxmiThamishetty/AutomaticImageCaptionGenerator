@@ -33,7 +33,7 @@ Installations:
 
 https://www.anaconda.com/products/individual.
 
-2. Install Jupyter notebook for Anaconda.
+2.Install Jupyter notebook for Anaconda.
 
 3.Install Streamlit from the link
 
